@@ -1,0 +1,2 @@
+# Banana-leaf-disease-detection-using-MobileNet-V2-and-SRCNN.
+a deep learning-based system to classify plant leaf images into four categories: Cordana, Healthy, Pestalotiopsis, and Sigatoka. Leveraged MobileNetV2 for feature extraction and Logistic Regression for classification,.Implemented image preprocessing, training visualization, and model evaluation using Python, TensorFlow/Keras, and scikit-learn.
