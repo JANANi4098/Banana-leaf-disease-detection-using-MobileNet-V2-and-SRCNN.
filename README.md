@@ -15,6 +15,7 @@ Visualization: Display predictions and training history graphs for analysis.
 
 The model achieves high accuracy by leveraging pretrained CNN features and combining them with a traditional machine learning classifier for robust performance, even with a small dataset.
 
+A user friendly UI is developed using python for easy access by farmers
 Tech Stack Used:
 
 Programming Language: Python
