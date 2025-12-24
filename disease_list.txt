@@ -1,0 +1,19 @@
+sigatoka:
+Sigatoka is a foliar disease of banana caused by the fungus Pseudocercospora fijiensis.
+removal of older leaves to reduce inoculum levels in a plantation, interplanting with other nonsusceptible crops, and planting in partial shade which results in less severe disease development.
+Timorex Gold 
+It is a fungal disease that destroys banana leaves, reducing the number and size of fruit
+
+
+pestalotiopsis
+Leaf spots will begin as very small, yellow, brown or black spots that enlarge in size. The spot usually turns gray with a black outline. Lesions on the petiole and rachis are similar. Symptoms may occur on multiple leaves at once, especially on juvenile palms.
+Spraying fungicides can be taken as preventive measures to control the spread of this disease.prochloraz and chlorothalonil.
+
+
+
+cordana:
+Typical symptoms of this disease appear as oval, pale brown spots, and as long strips of light brown necrosed tissue sometimes extending from the leaf margins to the midrib.Remove thatch at regular intervals and apply adequate nitrogen to help prevent the development of this disease.Control management of Cordana leaf spots in abaca involves the use of fungicides. In-vitro efficacy studies have shown that captasul and ridomil gold fungicides are highly toxic to the pathogen Cordana musae.
+
+
+Abstract:
+In agriculture scenerio plant disease classification and prediction is more important for improvising the growth.First step for this project is to generate the model for classification of banana leaves.Initially collect the dataset from the kaggle for banana leaf disease classification and preprocess all the images with the resizing and filter applying. After preprocessed all the data extract the features for the 
